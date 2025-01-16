@@ -151,6 +151,7 @@ This project is open-source and available under the MIT License.
 ## Acknowledgments
 
 Special thanks to:
+- Seeedstudio Community
 - SparkFun for the MAX30105 library
 - The ESP32 community
 - All contributors and supporters
