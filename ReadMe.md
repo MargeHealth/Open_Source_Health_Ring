@@ -65,16 +65,6 @@ npm install
 npm run dev
 \`\`\`
 
-## Project Structure
-
-\`\`\`
-.
-├── Marge-health-web-socket-server/    # WebSocket server
-├── Marge_Health_Images/               # Project images and diagrams
-├── Marge_Health_Xiao_Esp32_Max30105_WSS_SendVitals/    # WebSocket enabled firmware
-├── Marge_Health_Xiao_Esp32c3_Max30105/    # Basic sensor reading
-└── Marge_Health_Xiao_Esp32c3_Max30105_HeartRate_Blood_Oxygen/    # Complete vitals monitoring
-\`\`\`
 
 ## Features
 
