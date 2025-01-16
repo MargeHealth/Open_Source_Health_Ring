@@ -1,5 +1,3 @@
-// readme-content.js
-
  # Marge Health - Sickle Cell Blood Flow Monitor
 
 ![Marge Health Logo](Marge_Health_Images/logo.png)
