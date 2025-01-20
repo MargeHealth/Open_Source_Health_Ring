@@ -15,7 +15,7 @@ The project consists of three main components:
 
 ## Hardware Requirements
 
-- Seeed XIAO ESP32C3
+- [Seeed Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
 - MAX30105 Breakout Board
 - Connecting wires
 - USB-C cable for programming
